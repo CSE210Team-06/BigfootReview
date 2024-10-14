@@ -86,6 +86,16 @@ Project Page
 The project page is well-laid out and clear. I thought the demo was a helpful visual tool for clarifying what Bigfoot has to offer and what it should look like. The usage section was not all that helpful to me, especially without a hello world example. I appreciated the thorough options section though.
 We need Saas and Ruby for running the Grunt files from the repo.
 
+# If we would sue it
+
+Well Bigfoot is a very functional library, we would not use it now in 2024. There isn't enough documentation and support to use this tool almost 10 years in the future. jQuery and Gimp are older dependencies that aren't commmon practice anymore, and while this issue on it's own wouldn't be insurmountable, the documentation is to poor to make overcoming this worth it.
+
+If this were 2015, when Github issues were being actively resolved, and the coding practices were up to date for the time we would have used this tool.
+
+There are three steps to making this tool useful: (1) Replacing Gimp (2) Replacing jQuery (3) A detailed code documentation
+
+The first 2 tasks are a relativy light lift (updating gimp was our change to the tool), but a detailed code documentation could take days of work.
+
 
 
 
